@@ -1,3 +1,3 @@
 # adenosine
 
-denoを使ったHTTP API
+denoを使ったHTTP APIでユーザ登録処理を実装する．
